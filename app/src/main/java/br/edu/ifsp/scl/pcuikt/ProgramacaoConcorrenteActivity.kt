@@ -5,11 +5,6 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Message
 
-
-import android.support.v7.app.AppCompatActivity
-import android.os.Bundle
-import android.os.Handler
-import android.os.Message
 import kotlinx.android.synthetic.main.activity_programacao_concorrente.*
 import org.jetbrains.anko.imageResource
 
